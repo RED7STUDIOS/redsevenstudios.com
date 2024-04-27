@@ -22,8 +22,8 @@ export function Projects() {
 						Our Projects
 					</h2>
 					<p className="mx-auto max-w-[700px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
-						We've been working on a lot of projects and would love
-						to share them!
+						We&#39;ve been working on a lot of projects and would
+						love to share them!
 					</p>
 				</div>
 				<div className="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3">
